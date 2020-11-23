@@ -7,7 +7,7 @@
 
  [ArtStation]: https://jotadevs.artstation.com/
  [Instagram]: https://www.instagram.com/jotadevs/
- [Twitter]: https://www.instagram.com/jotadevs/
+ [Twitter]: https://twitter.com/jotajotadevs
 <!--
 **Jotadevs/Jotadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
