@@ -8,10 +8,12 @@ I'm programmer and 3D modeler.
 [<img align="left" alt="Jotadevs | ArtStation" width="22px" src="https://i.pinimg.com/originals/b6/64/05/b664058c1ae866ff9371e1ffdd36ad99.png" />][ArtStation]
 [<img align="left" alt="Jotadevs | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][Instagram]
 [<img align="left" alt="Jotadevs | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][Twitter]
+[<img align="left" alt="Jotadevs | Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][LinkedIn]
 
  [ArtStation]: https://jotadevs.artstation.com/
  [Instagram]: https://www.instagram.com/jotadevs/
  [Twitter]: https://twitter.com/jotajotadevs
+ [LinkedIn]: https://www.linkedin.com/in/jose-javier-meg%C3%ADas-valero-867717151/
 <!--
 **Jotadevs/Jotadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
