@@ -1,6 +1,6 @@
 ### Hi there, this is Jotadevs!
 
-I’m currently studying Video Games at Universidad Europea de Madrid. /n
+I’m currently studying Video Games at Universidad Europea de Madrid. <br />
 I'm programmer and 3D modeler.
 
 ### Social Networks:
