@@ -1,4 +1,8 @@
-### Hi there
+### Hi there, this is Jotadevs!
+
+I’m currently studying Video Games at Universidad Europea de Madrid.
+I'm programmer and 3D modeler.
+
 ### Social Networks:
 
 [<img align="left" alt="Jotadevs | ArtStation" width="22px" src="https://i.pinimg.com/originals/b6/64/05/b664058c1ae866ff9371e1ffdd36ad99.png" />][ArtStation]
